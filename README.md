@@ -1,3 +1,7 @@
+# SQLi Exercise
+
+Built on top of this [repo](https://github.com/thomaslaurenson/startrek_payroll)
+
 # startrek_payroll
 
 A simple SQL injection vulnerable web application powered by Docker
