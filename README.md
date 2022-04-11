@@ -2,6 +2,14 @@
 
 Built on top of this [repo](https://github.com/thomaslaurenson/startrek_payroll)
 
+To run:
+
+1. Download [Docker](https://www.docker.com/products/docker-desktop/). [Turn on virtualization if needed](https://stackoverflow.com/questions/39684974/docker-for-windows-error-hardware-assisted-virtualization-and-data-execution-p)
+2. Clone this repo
+3. Open a terminal and go to directory where this repo is cloned into; run docker-compose up
+4. Go to browser and type: localhost:8080. Enjoy!
+5. If you need solutions, see solution.txt
+
 # startrek_payroll
 
 A simple SQL injection vulnerable web application powered by Docker
